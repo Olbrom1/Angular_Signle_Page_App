@@ -124,5 +124,8 @@
       }
     }
   },
-  "defaultProject": "filmy"
+  "defaultProject": "filmy",
+  "cli": {
+    "analytics": "41f31383-8ee4-4c74-8d18-6478234b60a2"
+  }
 }
